@@ -1,0 +1,14 @@
+{
+  "name": "yahparser",
+  "version": "1.0.0",
+  "description": "HTML Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Javier Marchesini",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
